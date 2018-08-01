@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1532519636 source:d:\final2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532519637 d:\final2\arraylist.h
+
+1533131781 source:d:\final2\letras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Letras.h"
+
+1533128384 d:\final2\letras.h
+
+1533131708 source:d:\final2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"Letras.h"
+
+1532520383 d:\final2\parser.h
+	"ArrayList.h"
+
+1533125112 source:d:\final2\parser.c
+	<string.h>
+	<stdio.h>
+	"parser.h"
+	"Letras.h"
+
