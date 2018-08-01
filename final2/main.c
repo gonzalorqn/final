@@ -81,6 +81,7 @@ int main()
             case 4:
                 letra_generarArrayOrdenado(caracteres,caracteresOrdenados);
 
+                printf("ID -- Letra -- Nombre -- Vocal -- Consonante -- Numero\n");
                 for(i=0;i<caracteresOrdenados->len(caracteresOrdenados);i++)
                 {
                     letra_print(caracteresOrdenados->pElements[i]);
